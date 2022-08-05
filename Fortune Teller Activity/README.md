@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+This assignment showcases the use of a simple if-else if loop by creating a fortune teller "game". In the fortune_teller.js file, the number 8 is assigned to the variable fortune. When the code was tested, I changed the number assigned fortune. This chosen number corresponds to a particular string or "the fortune".
