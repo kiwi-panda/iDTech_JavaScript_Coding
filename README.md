@@ -1,2 +1,2 @@
 # JavaScript Coding
-This is JavaScript Coding.
+This repository showcases my work from the JavaScript Coding (powered by MIT Open Learning) Summer Teen Academy through iD Tech Camps. For two weeks (July 25, 2022 - August 5, 2022), I learned various methods of the JavaScript language and used them in activities, projects, and other assignments. I also learned how to use GitHub repositories and numerous Terminal commands.
