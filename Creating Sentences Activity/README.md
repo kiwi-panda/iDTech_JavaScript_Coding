@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+This activity involves an array containing multiple strings. The related .js file uses the function createSentence() that takes all elements of the array and combines them into a single sentence.

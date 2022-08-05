@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+This activity uses both my knowledge of JavaScript and the introduction of the DOM to simulate PacMan moving across the window until it reaches the edge. At that point, PacMan reverses his direction and continues to proceed back and forth across the window.

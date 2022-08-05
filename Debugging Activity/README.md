@@ -1,1 +1,2 @@
 # Debugging Activity
+The objective of this activity was to debug the given programs (example1.js, example2.js, example3.js, and example.js), which showcased my knowledge and techniques thus far in the course. The html file is used to show if the code is correctly debugged.

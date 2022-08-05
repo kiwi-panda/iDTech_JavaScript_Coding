@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+This assignment includes basic data type variables (arrays, booleans, integers, and strings). The variables are then used to create a story, which is later logged to the console.
