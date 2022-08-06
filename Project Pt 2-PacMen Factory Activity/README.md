@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+The PacMen Factory Activity utilizes buttons assigned to functions that spawn and move multiple PacMan models. They bounce and remain in the constraints of the window at differing velocities.
